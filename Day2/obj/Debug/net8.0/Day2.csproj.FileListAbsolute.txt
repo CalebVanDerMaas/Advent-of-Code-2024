@@ -1,0 +1,15 @@
+/Users/calebvandermaas/Developer/Advent-of-Code-2024/Day2/bin/Debug/net8.0/Day2
+/Users/calebvandermaas/Developer/Advent-of-Code-2024/Day2/bin/Debug/net8.0/Day2.deps.json
+/Users/calebvandermaas/Developer/Advent-of-Code-2024/Day2/bin/Debug/net8.0/Day2.runtimeconfig.json
+/Users/calebvandermaas/Developer/Advent-of-Code-2024/Day2/bin/Debug/net8.0/Day2.dll
+/Users/calebvandermaas/Developer/Advent-of-Code-2024/Day2/bin/Debug/net8.0/Day2.pdb
+/Users/calebvandermaas/Developer/Advent-of-Code-2024/Day2/obj/Debug/net8.0/Day2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/calebvandermaas/Developer/Advent-of-Code-2024/Day2/obj/Debug/net8.0/Day2.AssemblyInfoInputs.cache
+/Users/calebvandermaas/Developer/Advent-of-Code-2024/Day2/obj/Debug/net8.0/Day2.AssemblyInfo.cs
+/Users/calebvandermaas/Developer/Advent-of-Code-2024/Day2/obj/Debug/net8.0/Day2.csproj.CoreCompileInputs.cache
+/Users/calebvandermaas/Developer/Advent-of-Code-2024/Day2/obj/Debug/net8.0/Day2.sourcelink.json
+/Users/calebvandermaas/Developer/Advent-of-Code-2024/Day2/obj/Debug/net8.0/Day2.dll
+/Users/calebvandermaas/Developer/Advent-of-Code-2024/Day2/obj/Debug/net8.0/refint/Day2.dll
+/Users/calebvandermaas/Developer/Advent-of-Code-2024/Day2/obj/Debug/net8.0/Day2.pdb
+/Users/calebvandermaas/Developer/Advent-of-Code-2024/Day2/obj/Debug/net8.0/Day2.genruntimeconfig.cache
+/Users/calebvandermaas/Developer/Advent-of-Code-2024/Day2/obj/Debug/net8.0/ref/Day2.dll
