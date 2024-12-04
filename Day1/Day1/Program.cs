@@ -1,5 +1,18 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
+// public class InputProcessor
+// {
+//     public string InputFilePath { get; set; }
+//
+//     public InputProcessor(string inputFilePath)
+//     {
+//         InputFilePath = inputFilePath;
+//     }
+//
+//     public string[] GetInputLines(string filePath) => File.ReadAllLines(filePath);
+//
+// }
+
 string filePath = "/Users/calebvandermaas/Developer/Advent-of-Code-2024/Day1/Day1/input.txt";
 string[] lines = File.ReadAllLines(filePath);
 int linesCount = lines.Length;
