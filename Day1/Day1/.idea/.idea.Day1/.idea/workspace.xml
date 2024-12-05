@@ -7,7 +7,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6287422f-1cfc-4cee-81be-8bda5c9e9e23" name="Changes" comment="" />
+    <list default="true" id="6287422f-1cfc-4cee-81be-8bda5c9e9e23" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Day3/input.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,6 +77,7 @@
       <option name="presentableId" value="Default" />
       <updated>1733157934347</updated>
       <workItem from="1733157935384" duration="448000" />
+      <workItem from="1733319703706" duration="693000" />
     </task>
     <servers />
   </component>
