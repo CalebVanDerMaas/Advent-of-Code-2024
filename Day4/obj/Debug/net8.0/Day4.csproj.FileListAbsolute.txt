@@ -1,0 +1,15 @@
+/Users/calebvandermaas/Developer/Advent-of-Code-2024/Day4/bin/Debug/net8.0/Day4
+/Users/calebvandermaas/Developer/Advent-of-Code-2024/Day4/bin/Debug/net8.0/Day4.deps.json
+/Users/calebvandermaas/Developer/Advent-of-Code-2024/Day4/bin/Debug/net8.0/Day4.runtimeconfig.json
+/Users/calebvandermaas/Developer/Advent-of-Code-2024/Day4/bin/Debug/net8.0/Day4.dll
+/Users/calebvandermaas/Developer/Advent-of-Code-2024/Day4/bin/Debug/net8.0/Day4.pdb
+/Users/calebvandermaas/Developer/Advent-of-Code-2024/Day4/obj/Debug/net8.0/Day4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/calebvandermaas/Developer/Advent-of-Code-2024/Day4/obj/Debug/net8.0/Day4.AssemblyInfoInputs.cache
+/Users/calebvandermaas/Developer/Advent-of-Code-2024/Day4/obj/Debug/net8.0/Day4.AssemblyInfo.cs
+/Users/calebvandermaas/Developer/Advent-of-Code-2024/Day4/obj/Debug/net8.0/Day4.csproj.CoreCompileInputs.cache
+/Users/calebvandermaas/Developer/Advent-of-Code-2024/Day4/obj/Debug/net8.0/Day4.sourcelink.json
+/Users/calebvandermaas/Developer/Advent-of-Code-2024/Day4/obj/Debug/net8.0/Day4.dll
+/Users/calebvandermaas/Developer/Advent-of-Code-2024/Day4/obj/Debug/net8.0/refint/Day4.dll
+/Users/calebvandermaas/Developer/Advent-of-Code-2024/Day4/obj/Debug/net8.0/Day4.pdb
+/Users/calebvandermaas/Developer/Advent-of-Code-2024/Day4/obj/Debug/net8.0/Day4.genruntimeconfig.cache
+/Users/calebvandermaas/Developer/Advent-of-Code-2024/Day4/obj/Debug/net8.0/ref/Day4.dll
